@@ -2,6 +2,6 @@
 
 Simple job list using React and Ajax.
 
-Live exemple:
+Live example:
 [Cllick here](http://onclickmidia.net/reactajax/) 
 
