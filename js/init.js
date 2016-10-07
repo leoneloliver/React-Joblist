@@ -1,5 +1,4 @@
 var App = React.createClass({
-  
   getInitialState: function() {
     return {
       jobs: []
@@ -39,4 +38,4 @@ var App = React.createClass({
     )
   }
 });
-React.render(<App source="http://codepen.io/jobs.json" />, document.querySelector("#root"));
+React.render(<App source="http://codepen.io/jobs.json" />, document.querySelector("#result"));
